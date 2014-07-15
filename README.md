@@ -3,7 +3,7 @@ A Google Analytics client for the Rhodes Framework
 
 ## Installation
 ### In Gemfile
-gem 'rhodes_analytics', :git => "https://github.com/Fr3eZer/rhodes_analytics.git"
+gem 'rhodes_analytics', :git => "https://github.com/cgservices/rhodes_analytics.git"
 
 ## Usage
     @item = RhodesAnalytics::Item.new({:name => "Product", :price => "20.00"})
